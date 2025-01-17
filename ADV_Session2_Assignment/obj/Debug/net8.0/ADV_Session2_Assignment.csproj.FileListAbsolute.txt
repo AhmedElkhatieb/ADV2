@@ -12,3 +12,4 @@ C:\Web\Backend\C#\03 C# Advanced\Session 2\ADV_Session2\ADV_Session2_Assignment\
 C:\Web\Backend\C#\03 C# Advanced\Session 2\ADV_Session2\ADV_Session2_Assignment\obj\Debug\net8.0\ADV_Session2_Assignment.pdb
 C:\Web\Backend\C#\03 C# Advanced\Session 2\ADV_Session2\ADV_Session2_Assignment\obj\Debug\net8.0\ADV_Session2_Assignment.genruntimeconfig.cache
 C:\Web\Backend\C#\03 C# Advanced\Session 2\ADV_Session2\ADV_Session2_Assignment\obj\Debug\net8.0\ref\ADV_Session2_Assignment.dll
+C:\Web\Backend\C#\03 C# Advanced\Session 2\ADV_Session2\ADV_Session2_Assignment\obj\Debug\net8.0\ADV_Session2_Assignment.sourcelink.json

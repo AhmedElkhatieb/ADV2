@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D8526DE1-25A8-46B3-9ADB-9E508C24918D}|ADV_Session2_Assignment\\ADV_Session2_Assignment.csproj|solutionrelative:adv_session2_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D8526DE1-25A8-46B3-9ADB-9E508C24918D}|ADV_Session2_Assignment\\ADV_Session2_Assignment.csproj|c:\\web\\backend\\c#\\03 c# advanced\\session 2\\adv_session2\\adv_session2_assignment\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8526DE1-25A8-46B3-9ADB-9E508C24918D}|ADV_Session2_Assignment\\ADV_Session2_Assignment.csproj|solutionrelative:adv_session2_assignment\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8526DE1-25A8-46B3-9ADB-9E508C24918D}|ADV_Session2_Assignment\\ADV_Session2_Assignment.csproj|c:\\web\\backend\\c#\\03 c# advanced\\session 2\\adv_session2\\adv_session2_assignment\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8526DE1-25A8-46B3-9ADB-9E508C24918D}|ADV_Session2_Assignment\\ADV_Session2_Assignment.csproj|solutionrelative:adv_session2_assignment\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FixedSizeList.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\03 C# Advanced\\Session 2\\ADV_Session2\\ADV_Session2_Assignment\\FixedSizeList.cs",
+              "RelativeDocumentMoniker": "ADV_Session2_Assignment\\FixedSizeList.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\03 C# Advanced\\Session 2\\ADV_Session2\\ADV_Session2_Assignment\\FixedSizeList.cs",
+              "RelativeToolTip": "ADV_Session2_Assignment\\FixedSizeList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T23:04:54.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BookFunctions.cs",
               "DocumentMoniker": "C:\\Web\\Backend\\C#\\03 C# Advanced\\Session 2\\ADV_Session2\\ADV_Session2_Assignment\\BookFunctions.cs",
               "RelativeDocumentMoniker": "ADV_Session2_Assignment\\BookFunctions.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "ADV_Session2_Assignment\\BookFunctions.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T16:57:25.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T16:57:25.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Web\\Backend\\C#\\03 C# Advanced\\Session 2\\ADV_Session2\\ADV_Session2_Assignment\\Book.cs",
               "RelativeDocumentMoniker": "ADV_Session2_Assignment\\Book.cs",
@@ -47,8 +63,7 @@
               "RelativeToolTip": "ADV_Session2_Assignment\\Book.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T16:46:39.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T16:46:39.106Z"
             },
             {
               "$type": "Document",
@@ -58,7 +73,7 @@
               "RelativeDocumentMoniker": "ADV_Session2_Assignment\\Program.cs",
               "ToolTip": "C:\\Web\\Backend\\C#\\03 C# Advanced\\Session 2\\ADV_Session2\\ADV_Session2_Assignment\\Program.cs",
               "RelativeToolTip": "ADV_Session2_Assignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAE0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T16:42:35.021Z",
               "EditorCaption": ""
